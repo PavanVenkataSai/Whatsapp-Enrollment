@@ -38,7 +38,5 @@ gunicorn run:app
 * test the setup using your WhatsApp
 
 
-* [LinkedIn](https://www.linkedin.com/in/rajkkapadia/)
-* [Fiverr](https://www.fiverr.com/rajkkapadia​)
-* [Upwork](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
-* [Youtube](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ)
+* [LinkedIn](https://www.linkedin.com/in/pavanai/)
+
